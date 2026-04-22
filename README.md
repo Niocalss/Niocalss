@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Niocalss
-- 🌱 Undergraduate in Physics
 
 <!---
 Niocalss/Niocalss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
